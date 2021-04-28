@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>java-web-app</artifactId>
+	<artifactId>muni-app-p</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	
